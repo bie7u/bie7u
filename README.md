@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @bie7u
-- 👀 I’m interested in Python, I'm using django and django-rest-framework.
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Python, I'm using Django, Django Celery, CSS, HTML, HTMX, PostgreSQL, Beautiful Soup. I know something about AMAZON AWS and Heroku. 
+- 🌱 I’m currently learning Django Rest Framework
 - 📫 How to reach me ...
 
 <!---
