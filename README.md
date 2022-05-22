@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bie7u
 - 👀 I’m interested in Python, I'm using Django, Django Celery, BeautifulSoup, PostgreSQL, CSS, HTML, HTMX,. I know something about AMAZON AWS, Heroku and Bootstrap. 
 - 🌱 I’m currently learning Django Rest Framework
-- 📫 Email: devcode.biel@gmail.com | LinkedIn: [https://www.linkedin.com/in/krystian-biel-026014217](https://www.linkedin.com/in/krystian-biel-026014217/)
+- 📫 Email: devcode.biel@gmail.com | LinkedIn: [Click here](https://www.linkedin.com/in/krystian-biel-026014217/)
 
 
 <!---
